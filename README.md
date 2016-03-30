@@ -1,6 +1,6 @@
 # Inventory Management
 
-inventory management is to manage and automate the inventory process. It has three main modules:
+Inventory management is a web application that provides a common platform for Outlet owners, Merchants and Hauling Companies to manage, track and automate the inventory process. It has three main modules:
 
 1.	Outlets: Outlet owner corresponding to a particular outlet can login to the application and can perform the following functionalities:
 
@@ -29,4 +29,4 @@ We have used various technologies to build our application. The core application
 9.	Google Charts/ Fusion Charts - For building interactive charts on dashboard
 10.	Cisco Information Server - For Creating Views from different data sources
 
-Please refer to the Documentation folder for more information
+Please refer to the Documentation folder for more information.
