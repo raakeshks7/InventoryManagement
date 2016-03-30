@@ -1,21 +1,20 @@
 # Inventory Management
+CMPE 226 - Database Design
+Fall 2015 - Team Data Crunchers
+
+Team Members:
+1. Arjun Kumar Gangisetty
+2. Kavya Malla
+3. Syavasya Nikhil Vadavalli
+4. Vaishali Gangadhara
 
 Inventory management is a web application that provides a common platform for Outlet owners, Merchants and Hauling Companies to manage, track and automate the inventory process. It has three main modules:
 
-1.	Outlets: Outlet owner corresponding to a particular outlet can login to the application and can perform the following functionalities:
-
-a.	Create, View, Update or delete a zone.
-b.	Create, View, Update or delete an outlet.
-c.	Place an order when the items in the outlet are out of stock - A single order can consist of multiple items.
-d.	Create, View, Update or delete items in an outlet.
-e.	Sales Report: This feature enables outlet owners to view sales transactional data of different outlets and search the displayed data by any column value like sales amount, outlet name, item name, number of items, quarter and year.
-f.	Orders Report: This feature enables outlet owners to view orders placed by various outlets and search the displayed data by any column value like order name, outlet name, order amount, item count and calendar year.
-g.	View analytics like orders placed by an outlet, number of outlets in a zone, number of orders received by a merchant etc. The outlet can also perform drill up, drill down, slice and dice to view more detailed or brief charts.
-
+1.	Outlets: Outlet owner corresponding to a particular outlet can login to the application to create orders, track sales and view reports.
 2.	Hauling companies: Owner belonging to a particular hauling company can view the orders received and update the status to various options like ‘Delivered’,’In Progress’ etc.
-
 3.	Merchants: Merchant owner can also login to the application to view the orders received and update its status accordingly.
 Technology Stack used
+
 We have used various technologies to build our application. The core application is data centric and web based. Here is the technology stack used:
 
 1.	PHP - Server side code for communicating with database and application interface.
